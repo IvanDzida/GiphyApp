@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Giphy App</string>
+    <string name="uploading_video">Uploading video…</string>
+    <string name="successfully_uploaded">Video is successfully uploaded</string>
+    <string name="something_went_wrong">Something went wrong, try again later</string>
+    <string name="video_not_selected">Video is not selected</string>
+    <string name="progress_percentage">%1$s %%</string>
+    <string name="error_text">Something went wrong, press RETRY</string>
+    <string name="retry">Retry</string>
+    <string name="search">Search</string>
+
+    <string name="gif_by">Gif by: %1$s</string>
 </resources>
